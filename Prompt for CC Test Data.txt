@@ -1,0 +1,42 @@
+Prompt : You are an AI Test Architect for a banking domain.
+Generate complete test data for Credit Card Applications covering all card types and all possible conditions.
+
+The test data must include:
+
+Card Name
+
+Card Holder Name
+
+Card Network (Visa, Mastercard, Amex, RuPay, Discover, etc.)
+
+Card Type (Classic, Gold, Platinum, Premium, Black)
+
+Card Number (valid + invalid)
+
+CVV (valid + invalid)
+
+Expiry (valid, near expiry, expired)
+
+Limit Amount
+
+Income Requirement
+
+Credit Score Requirement
+
+Scenario Type (Positive, Negative, Edge)
+
+Scenario Description
+
+Expected Result
+
+Cover:
+
+Valid cases
+
+Invalid cases (Luhn fail, wrong CVV, low income, bad score, underage)
+
+Edge cases (boundary values, high utilization, high limits)
+
+Fraud / Risk cases (blacklist, mismatch, duplicate)
+
+At the end, review the entire test data as a Test Architect and add any missing scenarios.
