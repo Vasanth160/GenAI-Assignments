@@ -41,5 +41,3 @@ Fraud / Risk cases (blacklist, mismatch, duplicate)
 
 At the end, review the entire test data as a Test Architect and add any missing scenarios.
 
-////////////////////////////////////////////////
-
