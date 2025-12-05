@@ -1,0 +1,272 @@
+Maps --Google Maps
+Sudarshan --Home to Office --15 mins --travel time
+Auto drivers, near by tea shop
+15 mins -travel
+How Google ---3 years 
+--Data 
+Accurate --Approximate
+
+Google Map --AI --Predictive
+Chat GPT -Generation of results
+LLM-Large Language Models ---Generating the result --Gen AI
+
+AI ---Data
+Machine Learning --predictions from the data ---1000 --few million
+Deep Learning -predictions from the data ---few millions -thrillions
+
+Data Set (number of data)
+Data From sankar netralaya and Aravind eye care
+Retina ---Predict the possibility of cardiac arrest
+
+4000
+480000- 5 million
+60 Millions
+
+Data collection 
+Data Cleaning --Clean up activity
+Model selection --CNN --Image of retina
+Testing and Validation --- 60 Millions of testdata -60 Million or 40 Million
+20% of data can be use for testing
+
+Human --
+
+ChatGPT
+Gemini
+Copilot
+perpexlity
+Deepseek
+
+Chat Agents
+ChatGPT --Open AI
+Gemini -Google
+Perperxilyt
+Deepseek -Chinese Model
+Qwen --Alibaba
+
+Copilot-Agent (Model)
+
+ChatGPT --Open AI
+
+Input --Models (GPT OSS 120BIllion Parameters)(Pretarined large data set)
+
+ChatGPT-->API Request---> Model
+
+Email
+Case
+
+Hallucination
+
+Supervised  ---Labelled data
+Linear Regression Algorithm
+
+Flat --Chennai --Price of many ----
+Sqft
+Location
+Amenties
+Vastu
+Builder reputation
+High rise
+
+100|Shollinganallur|gym|East|xx builders|4 L
+
+Sqft -2026 --?--Price
+
+
+
+
+Unsupervised ---Action ,crime thriller (Pattern)
+
+Videos --Good and Bad drivers
+365 camera 
+--------------
+If some one jumps in ----AI --car should be stopped
+
+AI-card -violates signal will that be good
+
+Reward and penality
+-Scold
+-reward
+--more the penality --more trained more accuracy
+HIL  -Human in Loop
+
+ML,DL --Predictive Model
+with large data set+
+
+DL-ML with large data set+ Neural Networks
+
+GPT 4-120 transformer layers(neural networks)
+GPT 3: 96 transformer layers
+
+Historical data --Analyzeing that --Rains (Predictive)
+
+DL-Predictive
+Gen AI --Generative
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---Google Retina
+---Tesla 
+----What are different models in ML
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
